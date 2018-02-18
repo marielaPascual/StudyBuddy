@@ -43,7 +43,7 @@ Chart.js
 
 Google Maps (Current traffic updates, and direction)
 
-Motivational Quotes (Generate quotes every 24 Hrs)
+Motivational Quotes
 
 ## Copyright: 
 

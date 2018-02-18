@@ -41,7 +41,8 @@ body{
 	}
 
 #quote{
-	font-size: 30px;
+    margin-top: 5%;
+    font-size: 30px;
 	font-style: oblique;
 }
 #quoteButton{
@@ -50,19 +51,13 @@ body{
 	padding: 10px;
 	border: none;
 }
-#quoteText{
-	font-size:26px;
-    font-weight:300;
-
-}
 
 /*Quotes Style Starts here*/
 
 .quote {
   padding: 1em 1.5em 0;
   font-size: 2em;
-	font-weight: bold;
-	font-family: cursive;
+  font-weight:400;
 }
 
 .author {
