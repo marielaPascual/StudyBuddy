@@ -24,10 +24,16 @@ Study Buddy is an interactive tool that allows the user to actively track study 
 ### Key Elements & Features:
 
  Productivity/ Focus
+ 
  Motivation
+ 
  Time Management
+ 
  Tracking work hours per day/week using insightful charts
+ 
  Traffic update from current location to class
+ 
+ 
  
  ![studdybuddy 3](https://user-images.githubusercontent.com/31390306/36357885-988f34e6-14d2-11e8-9d2a-3f1ee1d4e4e5.gif)
  
